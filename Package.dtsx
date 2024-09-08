@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="87"
-  DTS:VersionGUID="{B335F9A9-C720-4BDF-9E2D-3403A7D205C8}">
+  DTS:VersionBuild="88"
+  DTS:VersionGUID="{A4F68762-10B9-4796-B6C4-6D2668CEED56}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -7299,79 +7299,79 @@ GROUP BY
               startId="Package\poblar tabla hechos\Combinación de mezcla 1.Outputs[Salida de combinación de mezcla]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación9]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada izquierda de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada derecha de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 1.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada izquierda de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 2.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada derecha de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 3.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada izquierda de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 4.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada derecha de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 5.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada izquierda de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 6.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada derecha de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 7.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada izquierda de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 8.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
               endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada derecha de combinación de mezcla]"
               name="Salida de ordenación"
               startId="Package\poblar tabla hechos\Ordenar 9.Outputs[Salida de ordenación]" />
             <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada izquierda de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 8.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada derecha de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 7.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada izquierda de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 6.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada derecha de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 5.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada derecha de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 3.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada izquierda de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 2.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada derecha de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 1.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada izquierda de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada izquierda de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 4.Outputs[Salida de ordenación]" />
+            <path
               refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB4]"
+              endId="Package\poblar tabla hechos\Ordenar 1.Inputs[Entrada de ordenación]"
+              name="Salida de origen de OLE DB"
+              startId="Package\poblar tabla hechos\dim_tiempo.Outputs[Salida de origen de OLE DB]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
               endId="Package\poblar tabla hechos\Ordenar 5.Inputs[Entrada de ordenación]"
               name="Salida de origen de OLE DB"
               startId="Package\poblar tabla hechos\dim_medico.Outputs[Salida de origen de OLE DB]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
               endId="Package\poblar tabla hechos\Ordenar 7.Inputs[Entrada de ordenación]"
               name="Salida de origen de OLE DB"
               startId="Package\poblar tabla hechos\dim_tratamiento.Outputs[Salida de origen de OLE DB]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
               endId="Package\poblar tabla hechos\Ordenar 3.Inputs[Entrada de ordenación]"
               name="Salida de origen de OLE DB"
               startId="Package\poblar tabla hechos\dim_pacientes.Outputs[Salida de origen de OLE DB]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
               endId="Package\poblar tabla hechos\Ordenar 9.Inputs[Entrada de ordenación]"
               name="Salida de origen de OLE DB"
               startId="Package\poblar tabla hechos\dim_citas.Outputs[Salida de origen de OLE DB]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
-              endId="Package\poblar tabla hechos\Ordenar 1.Inputs[Entrada de ordenación]"
-              name="Salida de origen de OLE DB"
-              startId="Package\poblar tabla hechos\dim_tiempo.Outputs[Salida de origen de OLE DB]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB5]"
               endId="Package\poblar tabla hechos\Ordenar.Inputs[Entrada de ordenación]"
@@ -7432,29 +7432,41 @@ GROUP BY
         <NodeLayout
           Size="176,42"
           Id="Package\Poblar dimensiones"
-          TopLeft="66.5,169.5" />
+          TopLeft="271.5,166.5" />
         <NodeLayout
           Size="175,42"
           Id="Package\poblar tabla hechos"
-          TopLeft="66.5,297.5" />
+          TopLeft="254.5,300.5" />
         <NodeLayout
           Size="147,42"
           Id="Package\reiniciar tablas"
-          TopLeft="80.5,65.5" />
+          TopLeft="339.5,58.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción]"
-          TopLeft="154.25,107.5">
+          TopLeft="413,100.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,62"
+              EndConnector="-53.5,66"
               Start="0,0"
-              End="0,54.5">
+              End="-53.5,58.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,54.5" />
+                    End="0,29" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,29"
+                    Point2="0,33"
+                    Point3="-4,33" />
+                  <mssgle:LineSegment
+                    End="-49.5,33" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-49.5,33"
+                    Point2="-53.5,33"
+                    Point3="-53.5,37" />
+                  <mssgle:LineSegment
+                    End="-53.5,58.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -7465,18 +7477,30 @@ GROUP BY
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 1]"
-          TopLeft="154.25,211.5">
+          TopLeft="359.5,208.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,86"
+              EndConnector="-17.5,92"
               Start="0,0"
-              End="0,78.5">
+              End="-17.5,84.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,78.5" />
+                    End="0,42" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,42"
+                    Point2="0,46"
+                    Point3="-4,46" />
+                  <mssgle:LineSegment
+                    End="-13.5,46" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-13.5,46"
+                    Point2="-17.5,46"
+                    Point3="-17.5,50" />
+                  <mssgle:LineSegment
+                    End="-17.5,84.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -7492,7 +7516,7 @@ GROUP BY
     design-time-name="Package\Poblar dimensiones">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="178,42"
           Id="Package\Poblar dimensiones\origen dim_paciente"
@@ -7564,7 +7588,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -7586,7 +7612,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -7608,7 +7636,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -7630,7 +7660,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -7664,7 +7696,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -7784,7 +7818,7 @@ GROUP BY
     design-time-name="Package\poblar tabla hechos">
     <LayoutInfo>
       <GraphLayout
-        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="205,42"
           Id="Package\poblar tabla hechos\Combinación de mezcla 1"
@@ -7904,33 +7938,13 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB4]"
-          TopLeft="756,526">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,45"
-              Start="0,0"
-              End="0,37.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,37.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
           TopLeft="478,120">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -7960,11 +7974,13 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
           TopLeft="1028.5,895">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -7982,11 +7998,13 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
           TopLeft="604,320">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8016,11 +8034,13 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
           TopLeft="911,703">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8038,181 +8058,37 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
+          TopLeft="756,526">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,45"
+              Start="0,0"
+              End="0,37.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\poblar tabla hechos.Paths[Salida de ordenación9]"
-          TopLeft="140.5,199">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="220.5,76"
-              Start="0,0"
-              End="220.5,68.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,34"
-                    Point2="0,38"
-                    Point3="4,38" />
-                  <mssgle:LineSegment
-                    End="216.5,38" />
-                  <mssgle:CubicBezierSegment
-                    Point1="216.5,38"
-                    Point2="220.5,38"
-                    Point3="220.5,42" />
-                  <mssgle:LineSegment
-                    End="220.5,68.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
-          TopLeft="495,217">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-102.666666666667,58"
-              Start="0,0"
-              End="-102.666666666667,50.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,30.5182186234818" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,30.5182186234818"
-                    Point2="0,34.5182186234818"
-                    Point3="-4,34.5182186234818" />
-                  <mssgle:LineSegment
-                    End="-98.6666666666666,34.5182186234818" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-98.6666666666666,34.5182186234818"
-                    Point2="-102.666666666667,34.5182186234818"
-                    Point3="-102.666666666667,38.5182186234818" />
-                  <mssgle:LineSegment
-                    End="-102.666666666667,50.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
-          TopLeft="359,410">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="108.666666666667,63"
-              Start="0,0"
-              End="108.666666666667,55.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,33.5072604065828" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,33.5072604065828"
-                    Point2="0,37.5072604065828"
-                    Point3="4,37.5072604065828" />
-                  <mssgle:LineSegment
-                    End="104.666666666667,37.5072604065828" />
-                  <mssgle:CubicBezierSegment
-                    Point1="104.666666666667,37.5072604065828"
-                    Point2="108.666666666667,37.5072604065828"
-                    Point3="108.666666666667,41.5072604065828" />
-                  <mssgle:LineSegment
-                    End="108.666666666667,55.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
-          TopLeft="630,410">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-96.6666666666667,63"
-              Start="0,0"
-              End="-96.6666666666667,55.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,33.5072604065828" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,33.5072604065828"
-                    Point2="0,37.5072604065828"
-                    Point3="-4,37.5072604065828" />
-                  <mssgle:LineSegment
-                    End="-92.6666666666667,37.5072604065828" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-92.6666666666667,37.5072604065828"
-                    Point2="-96.6666666666667,37.5072604065828"
-                    Point3="-96.6666666666667,41.5072604065828" />
-                  <mssgle:LineSegment
-                    End="-96.6666666666667,55.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
-          TopLeft="506,595">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="150.5,67"
-              Start="0,0"
-              End="150.5,59.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,29.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,29.5"
-                    Point2="0,33.5"
-                    Point3="4,33.5" />
-                  <mssgle:LineSegment
-                    End="146.5,33.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="146.5,33.5"
-                    Point2="150.5,33.5"
-                    Point3="150.5,37.5" />
-                  <mssgle:LineSegment
-                    End="150.5,59.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
           TopLeft="1027,981">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8242,113 +8118,13 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
-          TopLeft="756,613">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-66.6666666666667,49"
-              Start="0,0"
-              End="-66.6666666666667,41.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,25.1723136495643" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,25.1723136495643"
-                    Point2="0,29.1723136495643"
-                    Point3="-4,29.1723136495643" />
-                  <mssgle:LineSegment
-                    End="-62.6666666666667,29.1723136495643" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-62.6666666666667,29.1723136495643"
-                    Point2="-66.6666666666667,29.1723136495643"
-                    Point3="-66.6666666666667,33.1723136495643" />
-                  <mssgle:LineSegment
-                    End="-66.6666666666667,41.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
-          TopLeft="640,804">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="130.5,49"
-              Start="0,0"
-              End="130.5,41.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,20.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,20.5"
-                    Point2="0,24.5"
-                    Point3="4,24.5" />
-                  <mssgle:LineSegment
-                    End="126.5,24.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="126.5,24.5"
-                    Point2="130.5,24.5"
-                    Point3="130.5,28.5" />
-                  <mssgle:LineSegment
-                    End="130.5,41.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
-          TopLeft="908,804">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-104.666666666667,49"
-              Start="0,0"
-              End="-104.666666666667,41.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,25.1723136495644" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,25.1723136495644"
-                    Point2="0,29.1723136495644"
-                    Point3="-4,29.1723136495644" />
-                  <mssgle:LineSegment
-                    End="-100.666666666667,29.1723136495644" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-100.666666666667,29.1723136495644"
-                    Point2="-104.666666666667,29.1723136495644"
-                    Point3="-104.666666666667,33.1723136495644" />
-                  <mssgle:LineSegment
-                    End="-104.666666666667,41.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
           TopLeft="763,966">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8378,7 +8154,297 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
+          TopLeft="908,804">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-104.666666666667,49"
+              Start="0,0"
+              End="-104.666666666667,41.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.1723136495644" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25.1723136495644"
+                    Point2="0,29.1723136495644"
+                    Point3="-4,29.1723136495644" />
+                  <mssgle:LineSegment
+                    End="-100.666666666667,29.1723136495644" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-100.666666666667,29.1723136495644"
+                    Point2="-104.666666666667,29.1723136495644"
+                    Point3="-104.666666666667,33.1723136495644" />
+                  <mssgle:LineSegment
+                    End="-104.666666666667,41.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
+          TopLeft="640,804">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="130.5,49"
+              Start="0,0"
+              End="130.5,41.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,20.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20.5"
+                    Point2="0,24.5"
+                    Point3="4,24.5" />
+                  <mssgle:LineSegment
+                    End="126.5,24.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="126.5,24.5"
+                    Point2="130.5,24.5"
+                    Point3="130.5,28.5" />
+                  <mssgle:LineSegment
+                    End="130.5,41.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
+          TopLeft="756,613">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-66.6666666666667,49"
+              Start="0,0"
+              End="-66.6666666666667,41.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.1723136495643" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25.1723136495643"
+                    Point2="0,29.1723136495643"
+                    Point3="-4,29.1723136495643" />
+                  <mssgle:LineSegment
+                    End="-62.6666666666667,29.1723136495643" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-62.6666666666667,29.1723136495643"
+                    Point2="-66.6666666666667,29.1723136495643"
+                    Point3="-66.6666666666667,33.1723136495643" />
+                  <mssgle:LineSegment
+                    End="-66.6666666666667,41.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
+          TopLeft="506,595">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="150.5,67"
+              Start="0,0"
+              End="150.5,59.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,29.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,29.5"
+                    Point2="0,33.5"
+                    Point3="4,33.5" />
+                  <mssgle:LineSegment
+                    End="146.5,33.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="146.5,33.5"
+                    Point2="150.5,33.5"
+                    Point3="150.5,37.5" />
+                  <mssgle:LineSegment
+                    End="150.5,59.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
+          TopLeft="630,410">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-96.6666666666667,63"
+              Start="0,0"
+              End="-96.6666666666667,55.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.5072604065828" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,33.5072604065828"
+                    Point2="0,37.5072604065828"
+                    Point3="-4,37.5072604065828" />
+                  <mssgle:LineSegment
+                    End="-92.6666666666667,37.5072604065828" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-92.6666666666667,37.5072604065828"
+                    Point2="-96.6666666666667,37.5072604065828"
+                    Point3="-96.6666666666667,41.5072604065828" />
+                  <mssgle:LineSegment
+                    End="-96.6666666666667,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
+          TopLeft="359,410">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="108.666666666667,63"
+              Start="0,0"
+              End="108.666666666667,55.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,33.5072604065828" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,33.5072604065828"
+                    Point2="0,37.5072604065828"
+                    Point3="4,37.5072604065828" />
+                  <mssgle:LineSegment
+                    End="104.666666666667,37.5072604065828" />
+                  <mssgle:CubicBezierSegment
+                    Point1="104.666666666667,37.5072604065828"
+                    Point2="108.666666666667,37.5072604065828"
+                    Point3="108.666666666667,41.5072604065828" />
+                  <mssgle:LineSegment
+                    End="108.666666666667,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
+          TopLeft="495,217">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-102.666666666667,58"
+              Start="0,0"
+              End="-102.666666666667,50.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.5182186234818" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,30.5182186234818"
+                    Point2="0,34.5182186234818"
+                    Point3="-4,34.5182186234818" />
+                  <mssgle:LineSegment
+                    End="-98.6666666666666,34.5182186234818" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-98.6666666666666,34.5182186234818"
+                    Point2="-102.666666666667,34.5182186234818"
+                    Point3="-102.666666666667,38.5182186234818" />
+                  <mssgle:LineSegment
+                    End="-102.666666666667,50.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación]"
+          TopLeft="140.5,199">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="220.5,76"
+              Start="0,0"
+              End="220.5,68.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,34" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,34"
+                    Point2="0,38"
+                    Point3="4,38" />
+                  <mssgle:LineSegment
+                    End="216.5,38" />
+                  <mssgle:CubicBezierSegment
+                    Point1="216.5,38"
+                    Point2="220.5,38"
+                    Point3="220.5,42" />
+                  <mssgle:LineSegment
+                    End="220.5,68.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8400,7 +8466,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8434,7 +8502,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8456,7 +8526,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8478,7 +8550,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8500,7 +8574,9 @@ GROUP BY
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>

@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="85"
-  DTS:VersionGUID="{BDE3D02B-A7B4-459A-B8F4-5EADF3C6AF89}">
+  DTS:VersionBuild="87"
+  DTS:VersionGUID="{B335F9A9-C720-4BDF-9E2D-3403A7D205C8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -7273,107 +7273,107 @@ GROUP BY
           </components>
           <paths>
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla4]"
+              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla]"
               endId="Package\poblar tabla hechos\Destino de OLE DB.Inputs[Entrada de destino de OLE DB]"
               name="Salida de combinación de mezcla"
               startId="Package\poblar tabla hechos\Combinación de mezcla 4.Outputs[Salida de combinación de mezcla]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla3]"
+              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla1]"
               endId="Package\poblar tabla hechos\Ordenar 8.Inputs[Entrada de ordenación]"
               name="Salida de combinación de mezcla"
               startId="Package\poblar tabla hechos\Combinación de mezcla 3.Outputs[Salida de combinación de mezcla]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla]"
+              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla2]"
               endId="Package\poblar tabla hechos\Ordenar 2.Inputs[Entrada de ordenación]"
               name="Salida de combinación de mezcla"
               startId="Package\poblar tabla hechos\Combinación de mezcla.Outputs[Salida de combinación de mezcla]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla2]"
+              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla3]"
               endId="Package\poblar tabla hechos\Ordenar 6.Inputs[Entrada de ordenación]"
               name="Salida de combinación de mezcla"
               startId="Package\poblar tabla hechos\Combinación de mezcla 2.Outputs[Salida de combinación de mezcla]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla1]"
+              refId="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla4]"
               endId="Package\poblar tabla hechos\Ordenar 4.Inputs[Entrada de ordenación]"
               name="Salida de combinación de mezcla"
               startId="Package\poblar tabla hechos\Combinación de mezcla 1.Outputs[Salida de combinación de mezcla]" />
             <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada izquierda de combinación de mezcla]"
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación9]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada izquierda de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 8.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada derecha de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 1.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada derecha de combinación de mezcla]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada izquierda de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 7.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar 2.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada izquierda de combinación de mezcla]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada derecha de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 6.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar 3.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada derecha de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 5.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación9]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada derecha de combinación de mezcla]"
-              name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 9.Outputs[Salida de ordenación]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
               endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada izquierda de combinación de mezcla]"
               name="Salida de ordenación"
               startId="Package\poblar tabla hechos\Ordenar 4.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada derecha de combinación de mezcla]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 2.Inputs[Entrada derecha de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 3.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar 5.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla 1.Inputs[Entrada izquierda de combinación de mezcla]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada izquierda de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 2.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar 6.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada derecha de combinación de mezcla]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 3.Inputs[Entrada derecha de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar 1.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar 7.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de ordenación]"
-              endId="Package\poblar tabla hechos\Combinación de mezcla.Inputs[Entrada izquierda de combinación de mezcla]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada izquierda de combinación de mezcla]"
               name="Salida de ordenación"
-              startId="Package\poblar tabla hechos\Ordenar.Outputs[Salida de ordenación]" />
+              startId="Package\poblar tabla hechos\Ordenar 8.Outputs[Salida de ordenación]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
+              endId="Package\poblar tabla hechos\Combinación de mezcla 4.Inputs[Entrada derecha de combinación de mezcla]"
+              name="Salida de ordenación"
+              startId="Package\poblar tabla hechos\Ordenar 9.Outputs[Salida de ordenación]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB4]"
-              endId="Package\poblar tabla hechos\Ordenar 7.Inputs[Entrada de ordenación]"
-              name="Salida de origen de OLE DB"
-              startId="Package\poblar tabla hechos\dim_tratamiento.Outputs[Salida de origen de OLE DB]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
-              endId="Package\poblar tabla hechos\Ordenar 3.Inputs[Entrada de ordenación]"
-              name="Salida de origen de OLE DB"
-              startId="Package\poblar tabla hechos\dim_pacientes.Outputs[Salida de origen de OLE DB]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB5]"
-              endId="Package\poblar tabla hechos\Ordenar 9.Inputs[Entrada de ordenación]"
-              name="Salida de origen de OLE DB"
-              startId="Package\poblar tabla hechos\dim_citas.Outputs[Salida de origen de OLE DB]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
-              endId="Package\poblar tabla hechos\Ordenar 1.Inputs[Entrada de ordenación]"
-              name="Salida de origen de OLE DB"
-              startId="Package\poblar tabla hechos\dim_tiempo.Outputs[Salida de origen de OLE DB]" />
-            <path
-              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
               endId="Package\poblar tabla hechos\Ordenar 5.Inputs[Entrada de ordenación]"
               name="Salida de origen de OLE DB"
               startId="Package\poblar tabla hechos\dim_medico.Outputs[Salida de origen de OLE DB]" />
             <path
               refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
+              endId="Package\poblar tabla hechos\Ordenar 7.Inputs[Entrada de ordenación]"
+              name="Salida de origen de OLE DB"
+              startId="Package\poblar tabla hechos\dim_tratamiento.Outputs[Salida de origen de OLE DB]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
+              endId="Package\poblar tabla hechos\Ordenar 3.Inputs[Entrada de ordenación]"
+              name="Salida de origen de OLE DB"
+              startId="Package\poblar tabla hechos\dim_pacientes.Outputs[Salida de origen de OLE DB]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
+              endId="Package\poblar tabla hechos\Ordenar 9.Inputs[Entrada de ordenación]"
+              name="Salida de origen de OLE DB"
+              startId="Package\poblar tabla hechos\dim_citas.Outputs[Salida de origen de OLE DB]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
+              endId="Package\poblar tabla hechos\Ordenar 1.Inputs[Entrada de ordenación]"
+              name="Salida de origen de OLE DB"
+              startId="Package\poblar tabla hechos\dim_tiempo.Outputs[Salida de origen de OLE DB]" />
+            <path
+              refId="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB5]"
               endId="Package\poblar tabla hechos\Ordenar.Inputs[Entrada de ordenación]"
               name="Salida de origen de OLE DB"
               startId="Package\poblar tabla hechos\Origen de OLE DB.Outputs[Salida de origen de OLE DB]" />
@@ -7395,8 +7395,7 @@ GROUP BY
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{29F15F29-42D9-41A9-8A10-28B283609EE0}"
-          SQLTask:SqlStmtSourceType="FileConnection"
-          SQLTask:SqlStatementSource="reiniciar_tablas.sql" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DELETE FROM Hechos_Citas;&#xA;DBCC CHECKIDENT ('Hechos_Citas', RESEED, 0); &#xA;&#xA;DELETE FROM Dim_Tiempo;&#xA;DBCC CHECKIDENT ('dim_tiempo', RESEED, 0); &#xA;&#xA;DELETE FROM Dim_Cita;&#xA;DBCC CHECKIDENT ('Dim_Cita', RESEED, 0); &#xA;&#xA;DELETE FROM Dim_Medico;&#xA;DBCC CHECKIDENT ('Dim_Medico', RESEED, 0); &#xA;&#xA;DELETE FROM Dim_Paciente;&#xA;DBCC CHECKIDENT ('Dim_Paciente', RESEED, 0); &#xA;&#xA;DELETE FROM Dim_Tratamiento;&#xA;DBCC CHECKIDENT ('Dim_Tratamiento', RESEED, 0); " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -7437,14 +7436,14 @@ GROUP BY
         <NodeLayout
           Size="175,42"
           Id="Package\poblar tabla hechos"
-          TopLeft="66.5,298.5" />
+          TopLeft="66.5,297.5" />
         <NodeLayout
-          Size="150,42"
+          Size="147,42"
           Id="Package\reiniciar tablas"
           TopLeft="80.5,65.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción]"
-          TopLeft="155,107.5">
+          TopLeft="154.25,107.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -7470,14 +7469,14 @@ GROUP BY
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,87"
+              EndConnector="0,86"
               Start="0,0"
-              End="0,79.5">
+              End="0,78.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,79.5" />
+                    End="0,78.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -7495,9 +7494,13 @@ GROUP BY
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="194,42"
-          Id="Package\Poblar dimensiones\Origen dim_tratamiento"
-          TopLeft="92.5,733.5" />
+          Size="178,42"
+          Id="Package\Poblar dimensiones\origen dim_paciente"
+          TopLeft="92.5,538.5" />
+        <NodeLayout
+          Size="166,42"
+          Id="Package\Poblar dimensiones\Destino dim_citas"
+          TopLeft="430,283" />
         <NodeLayout
           Size="198,42"
           Id="Package\Poblar dimensiones\Destino dim_tratamiento"
@@ -7507,13 +7510,17 @@ GROUP BY
           Id="Package\Poblar dimensiones\destino dim_medico"
           TopLeft="89.5,436.5" />
         <NodeLayout
-          Size="172,42"
-          Id="Package\Poblar dimensiones\Origen dim_tiempo"
-          TopLeft="109,143" />
+          Size="162,42"
+          Id="Package\Poblar dimensiones\Origen dim_citas"
+          TopLeft="452,175" />
         <NodeLayout
           Size="172,42"
           Id="Package\Poblar dimensiones\origen dim_medico"
           TopLeft="92.5,343.5" />
+        <NodeLayout
+          Size="172,42"
+          Id="Package\Poblar dimensiones\Origen dim_tiempo"
+          TopLeft="109,143" />
         <NodeLayout
           Size="185,42"
           Id="Package\Poblar dimensiones\Destino dim_paciente"
@@ -7523,9 +7530,43 @@ GROUP BY
           Id="Package\Poblar dimensiones\Destination dim_tiempo"
           TopLeft="89.5,241.5" />
         <NodeLayout
-          Size="178,42"
-          Id="Package\Poblar dimensiones\origen dim_paciente"
-          TopLeft="92.5,538.5" />
+          Size="194,42"
+          Id="Package\Poblar dimensiones\Origen dim_tratamiento"
+          TopLeft="92.5,733.5" />
+        <EdgeLayout
+          Id="Package\Poblar dimensiones.Paths[Salida de origen de OLE DB3]"
+          TopLeft="195,185">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-8.5,56.5"
+              Start="0,0"
+              End="-8.5,49">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,24.25" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,24.25"
+                    Point2="0,28.25"
+                    Point3="-4,28.25" />
+                  <mssgle:LineSegment
+                    End="-4.5,28.25" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-4.5,28.25"
+                    Point2="-8.5,28.25"
+                    Point3="-8.5,32.25" />
+                  <mssgle:LineSegment
+                    End="-8.5,49" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Poblar dimensiones.Paths[Salida de origen de OLE DB2]"
           TopLeft="189,775.5">
@@ -7593,48 +7634,6 @@ GROUP BY
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Poblar dimensiones.Paths[Salida de origen de OLE DB3]"
-          TopLeft="195,185">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-8.5,56.5"
-              Start="0,0"
-              End="-8.5,49">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,24.25" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,24.25"
-                    Point2="0,28.25"
-                    Point3="-4,28.25" />
-                  <mssgle:LineSegment
-                    End="-4.5,28.25" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-4.5,28.25"
-                    Point2="-8.5,28.25"
-                    Point3="-8.5,32.25" />
-                  <mssgle:LineSegment
-                    End="-8.5,49" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="162,42"
-          Id="Package\Poblar dimensiones\Origen dim_citas"
-          TopLeft="452,175" />
-        <NodeLayout
-          Size="166,42"
-          Id="Package\Poblar dimensiones\Destino dim_citas"
-          TopLeft="430,283" />
-        <EdgeLayout
           Id="Package\Poblar dimensiones.Paths[Salida de origen de OLE DB4]"
           TopLeft="533,217">
           <EdgeLayout.Curve>
@@ -7672,10 +7671,28 @@ GROUP BY
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Poblar dimensiones\Origen dim_tratamiento">
+    design-time-name="Package\Poblar dimensiones\origen dim_paciente">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">View</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Poblar dimensiones\Destino dim_citas">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
@@ -7706,7 +7723,7 @@ GROUP BY
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Poblar dimensiones\Origen dim_tiempo">
+    design-time-name="Package\Poblar dimensiones\Origen dim_citas">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7715,6 +7732,14 @@ GROUP BY
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Poblar dimensiones\origen dim_medico">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Poblar dimensiones\Origen dim_tiempo">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7748,15 +7773,10 @@ GROUP BY
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Poblar dimensiones\origen dim_paciente">
+    design-time-name="Package\Poblar dimensiones\Origen dim_tratamiento">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">View</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
@@ -7766,15 +7786,95 @@ GROUP BY
       <GraphLayout
         Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="170,42"
-          Id="Package\poblar tabla hechos\Origen de OLE DB"
-          TopLeft="72,66" />
+          Size="205,42"
+          Id="Package\poblar tabla hechos\Combinación de mezcla 1"
+          TopLeft="398,473" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 9"
+          TopLeft="963,939" />
+        <NodeLayout
+          Size="205,42"
+          Id="Package\poblar tabla hechos\Combinación de mezcla 2"
+          TopLeft="554,662" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 5"
+          TopLeft="692,571" />
+        <NodeLayout
+          Size="205,42"
+          Id="Package\poblar tabla hechos\Combinación de mezcla 3"
+          TopLeft="668,853" />
+        <NodeLayout
+          Size="128,43"
+          Id="Package\poblar tabla hechos\Ordenar 7"
+          TopLeft="844,761" />
+        <NodeLayout
+          Size="205,42"
+          Id="Package\poblar tabla hechos\Combinación de mezcla 4"
+          TopLeft="806,1023" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 3"
+          TopLeft="566,368" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 6"
+          TopLeft="576,762" />
+        <NodeLayout
+          Size="175,42"
+          Id="Package\poblar tabla hechos\Destino de OLE DB"
+          TopLeft="820,1110" />
+        <NodeLayout
+          Size="126,42"
+          Id="Package\poblar tabla hechos\dim_citas"
+          TopLeft="967,853" />
+        <NodeLayout
+          Size="138,42"
+          Id="Package\poblar tabla hechos\dim_medico"
+          TopLeft="687,484" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 2"
+          TopLeft="295,368" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 1"
+          TopLeft="431,175" />
+        <NodeLayout
+          Size="150,42"
+          Id="Package\poblar tabla hechos\dim_pacientes"
+          TopLeft="529,278" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 4"
+          TopLeft="442,553" />
+        <NodeLayout
+          Size="136,42"
+          Id="Package\poblar tabla hechos\dim_tiempo"
+          TopLeft="410,78" />
+        <NodeLayout
+          Size="158,42"
+          Id="Package\poblar tabla hechos\dim_tratamiento"
+          TopLeft="835,661" />
         <NodeLayout
           Size="119,42"
           Id="Package\poblar tabla hechos\Ordenar"
           TopLeft="81,157" />
+        <NodeLayout
+          Size="170,42"
+          Id="Package\poblar tabla hechos\Origen de OLE DB"
+          TopLeft="72,66" />
+        <NodeLayout
+          Size="196,42"
+          Id="Package\poblar tabla hechos\Combinación de mezcla"
+          TopLeft="263,275" />
+        <NodeLayout
+          Size="128,42"
+          Id="Package\poblar tabla hechos\Ordenar 8"
+          TopLeft="699,924" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB5]"
           TopLeft="157,108">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -7807,16 +7907,30 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="136,42"
-          Id="Package\poblar tabla hechos\dim_tiempo"
-          TopLeft="410,78" />
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 1"
-          TopLeft="431,175" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB4]"
+          TopLeft="756,526">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,45"
+              Start="0,0"
+              End="0,37.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
           TopLeft="478,120">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -7849,12 +7963,86 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="196,42"
-          Id="Package\poblar tabla hechos\Combinación de mezcla"
-          TopLeft="263,275" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación]"
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
+          TopLeft="1028.5,895">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44"
+              Start="0,0"
+              End="0,36.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,36.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB1]"
+          TopLeft="604,320">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="26,48"
+              Start="0,0"
+              End="26,40.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,20" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20"
+                    Point2="0,24"
+                    Point3="4,24" />
+                  <mssgle:LineSegment
+                    End="22,24" />
+                  <mssgle:CubicBezierSegment
+                    Point1="22,24"
+                    Point2="26,24"
+                    Point3="26,28" />
+                  <mssgle:LineSegment
+                    End="26,40.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB]"
+          TopLeft="911,703">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,58"
+              Start="0,0"
+              End="0,50.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,50.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación9]"
           TopLeft="140.5,199">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -7888,7 +8076,7 @@ GROUP BY
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
           TopLeft="495,217">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -7921,80 +8109,8 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 2"
-          TopLeft="295,368" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla]"
-          TopLeft="360,317">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,51"
-              Start="0,0"
-              End="0,43.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,43.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="150,42"
-          Id="Package\poblar tabla hechos\dim_pacientes"
-          TopLeft="529,278" />
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 3"
-          TopLeft="566,368" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB2]"
-          TopLeft="604,320">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="26,48"
-              Start="0,0"
-              End="26,40.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,20" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,20"
-                    Point2="0,24"
-                    Point3="4,24" />
-                  <mssgle:LineSegment
-                    End="22,24" />
-                  <mssgle:CubicBezierSegment
-                    Point1="22,24"
-                    Point2="26,24"
-                    Point3="26,28" />
-                  <mssgle:LineSegment
-                    End="26,40.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="205,42"
-          Id="Package\poblar tabla hechos\Combinación de mezcla 1"
-          TopLeft="398,473" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
           TopLeft="359,410">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8028,7 +8144,7 @@ GROUP BY
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
           TopLeft="630,410">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8061,68 +8177,8 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 4"
-          TopLeft="442,553" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla1]"
-          TopLeft="503.25,515">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,38"
-              Start="0,0"
-              End="0,30.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,30.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="138,42"
-          Id="Package\poblar tabla hechos\dim_medico"
-          TopLeft="687,484" />
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 5"
-          TopLeft="692,571" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB3]"
-          TopLeft="756,526">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,45"
-              Start="0,0"
-              End="0,37.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,37.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="205,42"
-          Id="Package\poblar tabla hechos\Combinación de mezcla 2"
-          TopLeft="554,662" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
           TopLeft="506,595">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8156,7 +8212,41 @@ GROUP BY
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación5]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación4]"
+          TopLeft="1027,981">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-85.6666666666667,42"
+              Start="0,0"
+              End="-85.6666666666667,34.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.0048402710552" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,21.0048402710552"
+                    Point2="0,25.0048402710552"
+                    Point3="-4,25.0048402710552" />
+                  <mssgle:LineSegment
+                    End="-81.6666666666667,25.0048402710552" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-81.6666666666667,25.0048402710552"
+                    Point2="-85.6666666666667,25.0048402710552"
+                    Point3="-85.6666666666667,29.0048402710552" />
+                  <mssgle:LineSegment
+                    End="-85.6666666666667,34.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación3]"
           TopLeft="756,613">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8189,80 +8279,8 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 6"
-          TopLeft="576,762" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla2]"
-          TopLeft="656.5,704">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-16.5,58"
-              Start="0,0"
-              End="-16.5,50.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,25" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,25"
-                    Point2="0,29"
-                    Point3="-4,29" />
-                  <mssgle:LineSegment
-                    End="-12.5,29" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-12.5,29"
-                    Point2="-16.5,29"
-                    Point3="-16.5,33" />
-                  <mssgle:LineSegment
-                    End="-16.5,50.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="158,42"
-          Id="Package\poblar tabla hechos\dim_tratamiento"
-          TopLeft="835,661" />
-        <NodeLayout
-          Size="128,43"
-          Id="Package\poblar tabla hechos\Ordenar 7"
-          TopLeft="844,761" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB4]"
-          TopLeft="911,703">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,58"
-              Start="0,0"
-              End="0,50.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,50.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="205,42"
-          Id="Package\poblar tabla hechos\Combinación de mezcla 3"
-          TopLeft="668,853" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación6]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación2]"
           TopLeft="640,804">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8296,7 +8314,7 @@ GROUP BY
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación7]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación1]"
           TopLeft="908,804">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8329,68 +8347,8 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 8"
-          TopLeft="699,924" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla3]"
-          TopLeft="766.75,895">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,29"
-              Start="0,0"
-              End="0,21.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,21.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="126,42"
-          Id="Package\poblar tabla hechos\dim_citas"
-          TopLeft="967,853" />
-        <NodeLayout
-          Size="128,42"
-          Id="Package\poblar tabla hechos\Ordenar 9"
-          TopLeft="963,939" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de origen de OLE DB5]"
-          TopLeft="1028.5,895">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,44"
-              Start="0,0"
-              End="0,36.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,36.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="205,42"
-          Id="Package\poblar tabla hechos\Combinación de mezcla 4"
-          TopLeft="806,1023" />
-        <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación8]"
+          Id="Package\poblar tabla hechos.Paths[Salida de ordenación]"
           TopLeft="763,966">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8424,31 +8382,19 @@ GROUP BY
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de ordenación9]"
-          TopLeft="1027,981">
+          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla4]"
+          TopLeft="503.25,515">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-85.6666666666667,42"
+              EndConnector="0,38"
               Start="0,0"
-              End="-85.6666666666667,34.5">
+              End="0,30.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,21.0048402710552" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,21.0048402710552"
-                    Point2="0,25.0048402710552"
-                    Point3="-4,25.0048402710552" />
-                  <mssgle:LineSegment
-                    End="-81.6666666666667,25.0048402710552" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-81.6666666666667,25.0048402710552"
-                    Point2="-85.6666666666667,25.0048402710552"
-                    Point3="-85.6666666666667,29.0048402710552" />
-                  <mssgle:LineSegment
-                    End="-85.6666666666667,34.5" />
+                    End="0,30.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -8457,12 +8403,86 @@ GROUP BY
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="175,42"
-          Id="Package\poblar tabla hechos\Destino de OLE DB"
-          TopLeft="820,1110" />
         <EdgeLayout
-          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla4]"
+          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla3]"
+          TopLeft="656.5,704">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-16.5,58"
+              Start="0,0"
+              End="-16.5,50.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25"
+                    Point2="0,29"
+                    Point3="-4,29" />
+                  <mssgle:LineSegment
+                    End="-12.5,29" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-12.5,29"
+                    Point2="-16.5,29"
+                    Point3="-16.5,33" />
+                  <mssgle:LineSegment
+                    End="-16.5,50.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla2]"
+          TopLeft="360,317">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,51"
+              Start="0,0"
+              End="0,43.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,43.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla1]"
+          TopLeft="766.75,895">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,29"
+              Start="0,0"
+              End="0,21.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\poblar tabla hechos.Paths[Salida de combinación de mezcla]"
           TopLeft="908,1065">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -8487,75 +8507,7 @@ GROUP BY
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Poblar dimensiones\Origen dim_citas">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar dimensiones\Destino dim_citas">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\poblar tabla hechos\Origen de OLE DB">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\poblar tabla hechos\dim_tiempo">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\poblar tabla hechos\dim_pacientes">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\poblar tabla hechos\dim_medico">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\poblar tabla hechos\dim_tratamiento">
+    design-time-name="Package\poblar tabla hechos\Destino de OLE DB">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -8581,7 +8533,7 @@ GROUP BY
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\poblar tabla hechos\Destino de OLE DB">
+    design-time-name="Package\poblar tabla hechos\dim_medico">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -8590,6 +8542,53 @@ GROUP BY
         <Name>TableInfoObjectType</Name>
         <Value
           type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\poblar tabla hechos\dim_pacientes">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\poblar tabla hechos\dim_tiempo">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\poblar tabla hechos\dim_tratamiento">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\poblar tabla hechos\Origen de OLE DB">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
